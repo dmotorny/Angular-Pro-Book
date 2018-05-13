@@ -1,0 +1,11 @@
+cart:
+  title: STORE SHOP
+  yourCart: Your cart
+  quantity: Quantity
+  product: Product
+  price: Price
+  subtotal: Subtotal
+  cartIsEmpty: Your cart is empty!
+  total: Total
+  shopping: Continue shopping
+  checkout: Checkout

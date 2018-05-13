@@ -1,0 +1,16 @@
+.container {
+
+    h2 {
+        font-size: 200%;
+        margin: 25px 0px;
+        font-weight: 400;
+
+        select {
+            font-size: 70%;
+
+            &:hover {
+                cursor: pointer;
+            }
+        }
+    }
+}

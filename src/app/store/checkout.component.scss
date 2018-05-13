@@ -1,0 +1,23 @@
+.container {
+
+    h2 {
+        font-size: 200%;
+        margin: 25px 0px;
+        font-weight: 400;
+    }
+
+    input {
+
+        &.ng-dirty {
+    
+            &.ng-invalid {
+                border: 1px solid #ff0000;
+            }
+    
+            &.ng-valid {
+                border: 1px solid #6bc502;
+            }
+        }
+    }
+}
+

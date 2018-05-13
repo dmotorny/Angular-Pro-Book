@@ -1,0 +1,17 @@
+<div class="pull-right cart_title">
+    <small>
+        {{ 'main.cart' | translate }}:
+        <span *ngIf="cart.itemCount > 0">
+            {{ cart.itemCount }} {{ 'main.item' | translate }}
+            <span class="price_item">{{ cart.cartPrice | currency:"USD":symbol:"2.2-2" }}</span>
+        </span>
+        <span *ngIf="cart.itemCount == 0">
+            ({{ 'main.empty' | translate }})
+        </span>
+    </small>
+    <button class="btn btn-sm bg-inverse" 
+        [disabled]="cart.itemCount == 0"
+        routerLink="/cart">
+        <i class="fa fa-shopping-cart"></i>
+    </button>
+</div>

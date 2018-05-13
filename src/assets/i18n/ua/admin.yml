@@ -1,0 +1,7 @@
+admin:
+  title: АДМІНКА МАГАЗИНУ
+  name: Iм'я
+  password: Пароль
+  goBack: Повернутися
+  logIn: Увійти
+  errorMessage: Дані доступу невалидни

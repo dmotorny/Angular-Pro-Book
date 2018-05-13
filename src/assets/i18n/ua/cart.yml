@@ -1,0 +1,11 @@
+cart:
+  title: СПОРТ-ТОВАРИ
+  yourCart: Ваш кошик
+  quantity: Кількість
+  product: Найменування
+  price: Ціна
+  subtotal: Вартість
+  cartIsEmpty: Ваш кошик порожній!
+  total: Всього
+  shopping: Продовжити покупки
+  checkout: Завершити

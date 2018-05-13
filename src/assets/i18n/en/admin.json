@@ -1,0 +1,10 @@
+{
+  "admin": {
+    "title": "STORE ADMIN PANEL",
+    "name": "Name",
+    "password": "Password",
+    "goBack": "Go back",
+    "logIn": "Log In",
+    "errorMessage": "Form Data Invalid"
+  }
+}

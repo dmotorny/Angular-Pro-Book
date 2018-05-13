@@ -1,0 +1,13 @@
+main:
+  title: СПОРТ-ТОВАРЫ
+  home: ГЛАВНАЯ
+  cat:
+    chess: Шахматы
+    soccer: Соккер
+    watersports: Водные виды
+  adminButton: АДМИН-ПАНЕЛЬ
+  cart: Ваша корзина
+  item: товар(ов)
+  empty: пустая
+  addToCart: Добавить в корзину
+  perPage: на странице

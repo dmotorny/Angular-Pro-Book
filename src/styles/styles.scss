@@ -1,0 +1,23 @@
+@import url('../../node_modules/bootstrap/dist/css/bootstrap.min.css');
+@import url('https://use.fontawesome.com/releases/v5.0.9/css/all.css');
+@import 'mixins';
+@import 'vars';
+
+body {
+    margin: 20px 0px 30px 0px;
+
+    app-root {
+        
+        > i {
+            @include transform(-50%, -50%);
+            color: $main_color;
+            font-size: 340%;
+            width: auto;
+            position: absolute;
+            top: 47%;
+            left: 47%;
+        }
+    }
+}
+
+@import 'mobile';

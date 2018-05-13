@@ -1,0 +1,7 @@
+@mixin transform($first, $second) {
+    -moz-transform: ($first, $second);
+    -ms-transform: ($first, $second);
+    -webkit-transform: ($first, $second);
+    -o-transform: ($first, $second);
+    translate: ($first, $second);
+}

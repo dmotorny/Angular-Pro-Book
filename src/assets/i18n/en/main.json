@@ -1,0 +1,17 @@
+{
+  "main": {
+    "title": "STORE SHOP",
+    "home": "HOME",
+    "cat": {
+      "chess": "Chess",
+      "soccer": "Soccer",
+      "watersports": "Watersports"
+    },
+    "adminButton": "ADMIN PANEL",
+    "cart": "Your cart",
+    "item": "item(s)",
+    "empty": "empty",
+    "addToCart": "Add To Cart",
+    "perPage": "per page"
+  }
+}
