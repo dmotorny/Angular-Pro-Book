@@ -1,6 +1,6 @@
 # Angular 6.x Pro Book project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1 in accordance with 'Angular Pro' tutorial.
 
 ## Development server
 
